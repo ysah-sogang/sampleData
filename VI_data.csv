@@ -1,0 +1,190 @@
+﻿BehaviorType,InfluencerType,SURVEY,MEAN_MP,MEAN_MP_Cogn,MEAN_MP_Emotion,MEAN_MP_Intention,MEAN_PrimaryEmtions,MEAN_PrimaryEmotion_P,MEAN_PrimaryEmotion_N,MEAN_Likability,MEAN_M.Desire,MEAN_F.Engagement,M.P01,M.P02,M.P03,M.P04,M.P05,M.P06,M.P07,M.P08,M.P09,M.P10,P.Emotion01,P.Emotion02,P.Emotion03,P.Emotion04,Attention Check,Likability01,Likability02,Likability03,M.Desire01,M.Desire02,M.Desire03,M.Desire04,F.Enagement01,F.Enagement02,Gender,Age,Location
+self-serving,human influencer,1,3.6,3.67,3.5,3.67,3.25,3.5,3,4.00,3.33,4.00,4,3,4,4,3,3,4,3,4,4,3,4,4,2,Is a luxurious influencer,4,4,4,4,4,3,3,4,4,Male,15 - 30 years old,Europe
+self-serving,human influencer,1,3.50,2.33,4,4.00,3,3.5,3.5,3.33,2.00,2.00,3,2,2,4,4,4,4,4,4,4,3,2,4,3,Is a luxurious influencer,3,3,4,2,2,2,2,2,2,Prefer not to say,15 - 30 years old,Europe
+self-serving,human influencer,1,3.70,4.00,3.5,3.67,1.5,2,1.5,3.67,1.33,1.00,4,4,4,3,1,5,5,5,3,3,1,2,2,1,Is a luxurious influencer,4,3,4,2,1,1,1,1,1,Male,15 - 30 years old,North America/Central America
+self-serving,human influencer,1,1.90,2.00,1,3.00,1.5,2,1.5,3.33,1.00,1.00,2,3,1,1,1,1,1,4,3,2,2,1,1,2,Is a luxurious influencer,4,3,3,1,1,1,1,1,1,Female,15 - 30 years old,Europe
+self-serving,human influencer,1,4.10,3.67,4,4.67,1.75,3,1,4.00,4.00,4.00,4,3,4,4,4,4,4,5,5,4,2,3,1,1,Is a luxurious influencer,4,4,4,4,4,4,5,4,4,Male,15 - 30 years old,Europe
+self-serving,human influencer,1,4.20,3.00,4.5,5.00,2.5,4.5,1,4.00,3.33,1.00,3,3,3,3,5,5,5,5,5,5,4,4,1,1,Is a luxurious influencer,4,4,4,4,4,2,3,1,1,Female,15 - 30 years old,South America
+self-serving,human influencer,1,4.70,4.00,5,5.00,1.25,3,1,4.00,1.00,1.00,5,3,4,5,5,5,5,5,5,5,1,2,1,1,Is a luxurious influencer,4,4,4,1,1,1,1,1,1,Female,15 - 30 years old,Europe
+self-serving,human influencer,1,3.50,3.33,3,4.33,2.25,3.5,2.5,2.33,2.00,2.00,2,5,3,2,2,4,4,4,4,5,2,2,3,2,Is a luxurious influencer,3,2,2,2,2,2,2,2,2,Female,30 - 45 years old,Europe
+self-serving,human influencer,1,2.70,2.00,2.75,3.33,1.5,1.5,2,1.67,1.33,1.00,2,3,1,1,3,3,4,4,4,2,1,1,3,1,Is a luxurious influencer,3,1,1,2,1,1,2,1,1,Male,15 - 30 years old,North America/Central America
+self-serving,human influencer,1,3.40,3.67,3,3.67,2,3,1.5,3.67,2.00,2.50,4,4,3,2,2,4,4,4,3,4,2,3,2,1,Is a luxurious influencer,4,3,4,2,2,2,3,2,3,Male,30 - 45 years old,North America/Central America
+self-serving,human influencer,1,3.30,2.00,3.75,4.00,2,3,2,3.00,1.00,1.00,1,3,2,3,4,4,4,4,4,4,2,2,2,2,Is a luxurious influencer,3,3,3,1,1,1,1,1,1,Female,15 - 30 years old,North America/Central America
+self-serving,human influencer,1,4.20,4.33,3.5,5.00,2.75,5,1,5.00,4.00,1.00,3,5,5,3,4,2,5,5,5,5,5,4,1,1,Is a luxurious influencer,5,5,5,5,5,2,5,1,1,Female,15 - 30 years old,Africa
+self-serving,human influencer,1,3.70,3.00,4,4.00,3.25,4,2.5,3.00,2.33,2.00,3,3,3,4,4,4,4,4,4,4,4,4,3,2,Is a luxurious influencer,3,3,3,3,2,2,2,2,2,Male,30 - 45 years old,North America/Central America
+self-serving,human influencer,1,3.90,3.67,4,4.00,3.5,4,3,4.00,3.33,3.00,3,4,4,4,4,4,4,4,4,4,4,4,3,3,Is a luxurious influencer,4,4,4,3,3,4,2,3,3,Female,15 - 30 years old,Europe
+self-serving,human influencer,1,4.00,3.67,4,4.33,3.25,4,4,3.67,3.00,1.00,4,3,4,3,3,5,5,4,4,5,3,2,4,4,Is a luxurious influencer,4,3,4,3,4,2,3,1,1,Female,15 - 30 years old,North America/Central America
+self-serving,human influencer,1,3.30,2.67,3.5,3.67,2,2.5,2,3.00,1.33,1.00,3,3,2,2,4,4,4,4,3,4,1,3,3,1,Is a luxurious influencer,3,3,3,1,1,2,1,1,1,Male,45+,Europe
+self-serving,human influencer,1,3.30,3.67,2.75,3.67,1.5,2.5,1.5,4.00,2.00,3.00,4,3,4,3,2,3,3,4,4,3,2,1,1,2,Is a luxurious influencer,4,4,4,3,2,1,2,3,3,Female,15 - 30 years old,North America/Central America
+self-serving,human influencer,1,3.50,4.00,3.25,3.33,2.5,3,2,3.67,2.00,2.00,4,4,4,4,1,4,4,4,3,3,3,3,2,2,Is a luxurious influencer,3,4,4,2,2,2,2,2,2,Female,30 - 45 years old,Europe
+self-serving,human influencer,1,4.30,4.33,3.75,5.00,1.75,3,1.5,3.67,1.33,1.00,5,4,4,3,4,4,4,5,5,5,1,3,2,1,Is a luxurious influencer,3,4,4,1,1,2,1,1,1,Female,30 - 45 years old,Europe
+self-serving,human influencer,1,4.00,2.67,4.75,4.33,2.25,2.5,2.5,3.67,1.00,1.00,4,2,2,4,5,5,5,5,5,3,2,2,4,1,Is a luxurious influencer,4,4,3,1,1,1,1,1,1,Male,15 - 30 years old,New Zealand
+self-serving,human influencer,1,3.60,3.00,4,3.67,2.75,3,2.5,3.33,2.00,1.00,3,3,3,4,4,4,4,4,4,3,3,3,3,2,Is a luxurious influencer,4,3,3,2,2,2,2,1,1,Female,45+,Europe
+self-serving,human influencer,1,2.90,2.67,2.5,3.67,2.75,3.5,2,4.33,3.67,3.00,3,2,3,3,2,3,2,3,4,4,3,4,3,1,Is a luxurious influencer,4,4,5,4,3,4,4,3,3,Male,15 - 30 years old,North America/Central America
+self-serving,human influencer,1,3.60,2.33,4.25,4.00,1.5,2.5,2,2.67,1.00,1.00,3,2,2,2,5,5,5,4,4,4,1,1,3,1,Is a luxurious influencer,2,3,3,1,1,1,1,1,1,nonbinary,30 - 45 years old,North America/Central America
+self-serving,human influencer,1,4.70,4.67,4.5,5.00,2,4,1,5.00,4.33,2.00,5,4,5,4,5,5,4,5,5,5,3,3,1,1,Is a luxurious influencer,5,5,5,5,4,4,5,2,2,Female,15 - 30 years old,Africa
+self-serving,human influencer,1,2.60,2.67,2.25,3.00,2.25,2.5,2.5,3.67,1.33,2.00,4,2,2,2,2,2,3,3,3,3,2,2,3,2,Is a luxurious influencer,3,4,4,2,1,1,1,1,3,Male,30 - 45 years old,Asia
+self-serving,human influencer,1,4.10,2.33,5,4.67,2.25,3,2.5,2.33,2.33,1.00,2,2,3,5,5,5,5,5,5,4,2,2,4,1,Is a luxurious influencer,3,2,2,2,2,3,2,1,1,Female,15 - 30 years old,Europe
+self-serving,human influencer,1,3.80,3.67,3.75,4.00,2.75,4,1,4.33,2.67,2.00,4,4,3,1,4,5,5,3,5,4,4,5,1,1,Is a luxurious influencer,5,4,4,4,3,1,3,2,2,Male,30 - 45 years old,Pacific Islands
+self-serving,human influencer,1,2.70,2.67,2.25,3.33,2.25,3,2.5,3.33,1.67,1.00,3,3,2,1,2,3,3,3,3,4,2,2,3,2,Is a luxurious influencer,3,3,4,1,2,2,1,1,1,Male,30 - 45 years old,Europe
+self-serving,human influencer,1,2.80,2.67,2.25,3.67,2.25,3,2.5,3.33,3.00,3.50,2,3,3,2,1,3,3,4,3,4,2,2,3,2,Is a luxurious influencer,3,3,4,2,3,4,3,4,3,Male,15 - 30 years old,Australia
+self-serving,human influencer,1,3.40,2.67,3.5,4.00,3,3.5,3,2.67,2.67,1.00,3,3,2,2,4,4,4,4,4,4,3,3,3,3,Is a luxurious influencer,3,2,3,3,3,2,3,1,1,Female,30 - 45 years old,North America/Central America
+self-serving,human influencer,1,3.80,3.67,3.75,4.00,2.25,3,2,3.67,2.33,1.50,4,4,3,3,4,4,4,4,4,4,2,3,3,1,Is a luxurious influencer,4,3,4,3,2,2,3,2,1,Female,45+,Europe
+self-serving,human influencer,1,3.20,3.33,2.75,3.67,2.25,3,1,4.00,2.33,1.00,3,4,3,2,1,4,4,4,4,3,3,4,1,1,Is a luxurious influencer,4,4,4,3,2,2,3,1,1,Male,30 - 45 years old,North America/Central America
+self-serving,human influencer,1,3.60,2.67,4.25,3.67,1.25,2.5,1,3.00,4.00,1.00,3,2,3,4,4,4,5,4,4,3,2,1,1,1,Is a luxurious influencer,3,3,3,4,4,4,4,1,1,Male,15 - 30 years old,North America/Central America
+self-serving,human influencer,1,4.30,3.00,4.75,5.00,1.75,3.5,1.5,3.33,1.33,1.00,3,3,3,4,5,5,5,5,5,5,2,2,1,2,Is a luxurious influencer,3,3,4,2,1,1,1,1,1,Female,15 - 30 years old,North America/Central America
+self-serving,human influencer,1,4.50,3.67,4.75,5.00,2,4,1,4.00,3.33,1.00,4,3,4,4,5,5,5,5,5,5,3,3,1,1,Is a luxurious influencer,4,4,4,3,3,4,3,1,1,Female,30 - 45 years old,Europe
+self-serving,human influencer,1,3.50,3.67,3.75,3.00,2.5,3.5,1,4.00,5.00,5.00,5,3,3,2,3,5,5,3,3,3,4,4,1,1,Is a luxurious influencer,4,4,4,5,5,5,5,5,5,Female,30 - 45 years old,Africa
+self-serving,human influencer,1,3.80,3.33,4,4.00,3.25,4,2.5,4.00,1.00,1.00,2,4,4,4,4,4,4,4,4,4,4,4,4,1,Is a luxurious influencer,4,4,4,1,1,1,1,1,1,Female,15 - 30 years old,Africa
+self-serving,human influencer,1,4.00,3.00,4.5,4.33,2.25,3,2,4.00,3.33,1.00,3,3,3,3,5,5,5,5,5,3,3,2,3,1,Is a luxurious influencer,4,4,4,3,3,4,4,1,1,Male,15 - 30 years old,Europe
+self-serving,human influencer,1,3.50,3.00,3,4.67,1,3,1,2.00,2.67,1.00,5,3,1,2,3,3,4,4,5,5,1,1,1,1,Is a luxurious influencer,2,2,2,3,3,2,4,1,1,Female,15 - 30 years old,Europe
+self-serving,human influencer,1,3.00,3.00,3,3.00,3,3,3,3.00,3.00,3.00,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Is a luxurious influencer,3,3,3,3,3,3,3,3,3,Female,15 - 30 years old,Europe
+self-serving,human influencer,1,3.60,2.67,4,4.00,1.5,2.5,2,2.67,1.67,1.00,4,2,2,4,4,4,4,4,4,4,1,1,3,1,Is a luxurious influencer,4,2,2,2,2,1,1,1,1,Female,45+,Europe
+self-serving,human influencer,1,3.80,3.67,3,5.00,2.5,4,2,3.00,1.00,1.00,5,3,3,3,3,3,3,5,5,5,3,3,3,1,Is a luxurious influencer,3,3,3,1,1,1,1,1,1,Male,15 - 30 years old,Europe
+self-serving,human influencer,1,3.00,1.33,3.25,4.33,1.5,3.5,1,2.67,1.33,1.00,1,2,1,3,4,3,3,4,4,5,2,2,1,1,Is a luxurious influencer,3,3,2,2,1,1,2,1,1,Male,15 - 30 years old,Europe
+self-serving,human influencer,1,4.40,4.00,4.5,4.67,2,3.5,1.5,4.00,1.00,1.00,5,4,3,3,5,5,5,5,5,4,3,2,1,2,Is a luxurious influencer,4,4,4,1,1,1,1,1,1,Female,15 - 30 years old,North America/Central America
+self-serving,human influencer,1,3.90,3.67,3.25,5.00,1.5,3,2,3.00,1.00,1.00,5,3,3,2,5,3,3,5,5,5,1,1,3,1,Is a luxurious influencer,3,3,3,1,1,1,1,1,1,Female,15 - 30 years old,Africa
+self-serving,human influencer,1,3.90,4.33,3.5,4.00,2.75,3.5,1,5.00,3.67,5.00,4,4,5,4,2,4,4,4,5,3,4,5,1,1,Is a luxurious influencer,5,5,5,3,4,4,4,5,5,Male,30 - 45 years old,Europe
+self-serving,human influencer,1,3.70,2.00,4,5.00,2,3.5,2.5,2.67,1.33,1.00,2,3,1,2,4,5,5,5,5,5,2,1,4,1,Is a luxurious influencer,3,3,2,1,2,1,2,1,1,Male,15 - 30 years old,Europe
+helping-others,human influencer,2,4.60,4.00,4.75,5.00,2.25,4,1,4.00,2.67,2.00,4,4,4,4,5,5,5,5,5,5,3,4,1,1,Is an influencer who contributes to the enviroment.,4,4,4,1,3,4,4,2,2,Female,15 - 30 years old,Australia
+helping-others,human influencer,2,4.60,4.00,4.75,5.00,2.75,3.5,3.5,4.33,1.00,1.00,5,4,3,4,5,5,5,5,5,5,2,2,5,2,Is an influencer who contributes to the enviroment.,5,4,4,1,1,1,1,1,1,Male,30 - 45 years old,Europe
+helping-others,human influencer,2,4.10,3.67,4,4.67,2.5,4,1.5,5.00,4.33,3.00,4,3,4,4,4,4,4,4,5,5,3,4,2,1,Is an influencer who contributes to the enviroment.,5,5,5,4,4,5,4,3,3,Female,30 - 45 years old,Europe
+helping-others,human influencer,2,3.80,3.67,3.25,4.67,1.75,3,1,4.33,3.33,3.00,4,3,4,3,1,5,4,5,5,4,2,3,1,1,Is an influencer who contributes to the enviroment.,4,4,5,2,4,4,3,3,3,Male,15 - 30 years old,North America/Central America
+helping-others,human influencer,2,3.80,4.00,3.5,4.00,2.75,4,1.5,4.00,4.00,4.00,4,4,4,4,4,4,2,4,4,4,4,4,2,1,Is an influencer who contributes to the enviroment.,4,4,4,4,4,4,4,4,4,Female,15 - 30 years old,Other
+helping-others,human influencer,2,3.70,3.67,3.75,3.67,2,2.5,1.5,3.00,3.00,2.00,3,4,4,4,3,4,4,4,4,3,2,3,2,1,Is an influencer who contributes to the enviroment.,3,3,3,3,3,3,4,2,2,Female,30 - 45 years old,Asia
+helping-others,human influencer,2,3.90,3.67,4.5,3.33,3,3.5,2,4.67,4.00,4.00,4,3,4,4,5,5,4,3,4,3,4,4,2,2,Is an influencer who contributes to the enviroment.,4,5,5,4,4,4,4,5,3,Female,30 - 45 years old,Europe
+helping-others,human influencer,2,4.40,4.33,4.5,4.33,4.75,4.5,5,4.67,4.67,5.00,5,4,4,4,5,4,5,5,3,5,4,5,5,5,Is an influencer who contributes to the enviroment.,4,5,5,5,4,5,5,5,5,Male,15 - 30 years old,North America/Central America
+helping-others,human influencer,2,2.80,3.00,2,3.67,2,3,2,4.00,3.00,1.00,4,3,2,2,2,2,2,3,4,4,2,2,2,2,Is an influencer who contributes to the enviroment.,4,4,4,2,3,4,3,1,1,Female,15 - 30 years old,North America/Central America
+helping-others,human influencer,2,4.40,5.00,3.5,5.00,2.25,4,1,5.00,4.00,3.00,5,5,5,2,2,5,5,5,5,5,3,4,1,1,Is an influencer who contributes to the enviroment.,5,5,5,4,4,4,4,3,3,Female,15 - 30 years old,Europe
+helping-others,human influencer,2,4.30,3.33,4.75,4.67,2,3.5,1,4.67,4.00,3.50,4,3,3,4,5,5,5,5,5,4,3,3,1,1,Is an influencer who contributes to the enviroment.,4,5,5,4,4,4,4,4,3,Male,15 - 30 years old,Europe
+helping-others,human influencer,2,4.20,4.33,4.25,4.00,2.75,4.5,1,4.33,4.33,4.00,4,5,4,4,5,4,4,4,4,4,5,4,1,1,Is an influencer who contributes to the enviroment.,4,5,4,4,5,4,4,4,4,Female,30 - 45 years old,Europe
+helping-others,human influencer,2,4.30,4.33,4,4.67,2.75,4,1,4.67,4.00,3.50,5,3,5,5,3,4,4,5,5,4,4,5,1,1,Is an influencer who contributes to the enviroment.,4,5,5,4,4,4,5,4,3,Female,15 - 30 years old,North America/Central America
+helping-others,human influencer,2,3.50,4.00,2.75,4.00,3.5,4,3,3.33,3.67,4.00,4,4,4,3,2,2,4,4,4,4,4,4,2,4,Is an influencer who contributes to the enviroment.,3,4,3,4,4,3,3,4,4,Male,15 - 30 years old,Europe
+helping-others,human influencer,2,4.10,4.00,4,4.33,1.5,4,1,5.00,3.00,1.00,4,3,5,4,4,4,4,4,4,5,3,1,1,1,Is an influencer who contributes to the enviroment.,5,5,5,3,3,3,3,1,1,Male,30 - 45 years old,Europe
+helping-others,human influencer,2,3.80,2.67,4,4.67,1.5,3,1.5,4.67,2.67,1.00,3,3,2,4,5,3,4,5,5,4,2,1,2,1,Is an influencer who contributes to the enviroment.,4,5,5,2,3,3,2,1,1,Male,30 - 45 years old,Europe
+helping-others,human influencer,2,3.50,3.67,3.25,3.67,3,4,2,4.33,4.00,4.00,4,4,3,3,2,4,4,3,4,4,4,4,2,2,Is an influencer who contributes to the enviroment.,4,5,4,4,4,4,4,4,4,Female,30 - 45 years old,Asia
+helping-others,human influencer,2,3.90,3.67,4,4.00,3,4,2,4.00,4.00,2.00,4,3,4,4,4,4,4,4,4,4,4,4,2,2,Is an influencer who contributes to the enviroment.,4,4,4,4,4,4,4,2,2,Male,30 - 45 years old,North America/Central America
+helping-others,human influencer,2,3.80,4.67,3,4.00,2.75,3.5,2.5,4.00,3.00,2.00,4,5,5,3,2,3,4,4,4,4,3,3,3,2,Is an influencer who contributes to the enviroment.,4,4,4,4,2,3,2,2,2,Female,30 - 45 years old,North America/Central America
+helping-others,human influencer,2,3.90,4.00,3.75,4.00,2.5,3.5,1.5,4.67,4.00,4.00,4,4,4,4,3,4,4,4,4,4,3,4,2,1,Is an influencer who contributes to the enviroment.,4,5,5,4,4,4,4,4,4,Female,30 - 45 years old,Europe
+helping-others,human influencer,2,4.10,4.00,3.5,5.00,2.5,4,1.5,4.33,3.00,3.00,4,4,4,3,3,4,4,5,5,5,3,4,2,1,Is an influencer who contributes to the enviroment.,4,4,5,3,3,3,4,3,3,Male,15 - 30 years old,Europe
+helping-others,human influencer,2,3.80,3.67,4.25,3.33,2.25,3,1,4.00,4.00,1.50,4,3,4,4,4,4,5,3,4,3,3,4,1,1,Is an influencer who contributes to the enviroment.,4,4,4,4,4,4,4,1,2,Male,15 - 30 years old,Other
+helping-others,human influencer,2,4.30,4.67,4.5,3.67,1.75,3.5,1,4.67,2.67,3.00,4,5,5,4,5,5,4,2,4,5,2,3,1,1,Is an influencer who contributes to the enviroment.,4,5,5,2,4,2,4,3,3,Female,15 - 30 years old,Africa
+helping-others,human influencer,2,3.20,3.67,3,3.00,2.75,3,2.5,4.00,3.00,3.00,4,3,4,3,3,3,3,3,3,3,3,3,3,2,Is an influencer who contributes to the enviroment.,4,4,4,3,3,3,3,3,3,Female,45+,Europe
+helping-others,human influencer,2,4.22,4.33,4.5,3.50,2.5,4,1,5.00,4.33,4.50,4,4,5,4,4,5,5,3,,4,4,4,1,1,Is an influencer who contributes to the enviroment.,5,5,5,4,4,5,4,5,4,Female,15 - 30 years old,Africa
+helping-others,human influencer,2,4.20,4.00,4.5,4.00,2,3,1,4.00,3.00,2.00,4,4,4,4,5,5,4,4,4,4,2,4,1,1,Is an influencer who contributes to the enviroment.,4,4,4,3,3,3,3,2,2,Female,30 - 45 years old,Europe
+helping-others,human influencer,2,4.00,4.00,4,4.00,2.5,4,1,4.67,3.33,3.00,5,4,3,4,4,4,4,4,4,4,4,4,1,1,Is an influencer who contributes to the enviroment.,5,5,4,2,4,4,2,4,2,Female,30 - 45 years old,Africa
+helping-others,human influencer,2,3.30,3.33,3,3.67,1.5,2,1.5,4.00,4.00,4.00,4,3,3,2,2,4,4,4,4,3,1,2,2,1,Is an influencer who contributes to the enviroment.,4,4,4,4,4,4,4,4,4,Female,45+,Europe
+helping-others,human influencer,2,4.40,3.67,4.75,4.67,2,3.5,1,4.67,2.67,2.00,4,3,4,4,5,5,5,5,5,4,3,3,1,1,Is an influencer who contributes to the enviroment.,5,5,4,2,3,3,3,2,2,Female,30 - 45 years old,Europe
+helping-others,human influencer,2,3.90,3.67,4,4.00,1.25,2.5,1,4.33,4.00,2.00,4,3,4,4,4,4,4,4,4,4,1,2,1,1,Is an influencer who contributes to the enviroment.,5,4,4,4,4,4,3,2,2,Female,15 - 30 years old,Europe
+helping-others,human influencer,2,4.40,3.67,4.5,5.00,1.75,3.5,1,4.00,3.67,2.00,4,3,4,4,5,5,4,5,5,5,2,3,1,1,Is an influencer who contributes to the enviroment.,4,4,4,3,4,4,2,2,2,Female,15 - 30 years old,Europe
+helping-others,human influencer,2,1.00,1.00,1,1.00,1.75,1.5,1,3.33,2.33,2.00,1,1,1,1,1,1,1,1,1,1,2,3,1,1,Is an influencer who contributes to the enviroment.,3,3,4,1,3,3,2,1,3,Female,30 - 45 years old,Europe
+helping-others,human influencer,2,4.20,3.67,4.5,4.33,3,4.5,1,5.00,4.00,4.00,4,3,4,4,4,5,5,5,4,4,5,5,1,1,Is an influencer who contributes to the enviroment.,5,5,5,4,4,4,4,4,4,Female,15 - 30 years old,Europe
+helping-others,human influencer,2,3.30,3.33,2.75,4.00,3,4.5,1.5,4.33,3.00,2.00,4,4,2,1,1,4,5,4,3,5,4,5,1,2,Is an influencer who contributes to the enviroment.,5,4,4,3,4,2,4,2,2,Male,15 - 30 years old,Other
+helping-others,human influencer,2,3.30,3.00,3,4.00,3,4,2,4.00,2.00,2.00,3,3,3,2,2,4,4,4,4,4,4,4,2,2,Is an influencer who contributes to the enviroment.,4,4,4,2,2,2,2,2,2,Male,15 - 30 years old,North America/Central America
+helping-others,human influencer,2,4.20,4.33,3.5,5.00,3,5,1,4.67,4.00,3.50,4,4,5,4,1,4,5,5,5,5,5,5,1,1,Is an influencer who contributes to the enviroment.,5,5,4,5,3,4,3,3,4,Male,30 - 45 years old,Asia
+helping-others,human influencer,2,3.90,4.33,3.5,4.00,2.75,4,1.5,5.00,4.00,2.00,5,4,4,3,4,3,4,4,4,4,4,4,2,1,Is an influencer who contributes to the enviroment.,5,5,5,4,4,4,4,2,2,Female,15 - 30 years old,Europe
+helping-others,human influencer,2,1.00,1.00,1,1.00,3,2,2,4.00,5.00,5.00,1,1,1,1,1,1,1,1,1,1,3,5,1,3,Is an influencer who contributes to the enviroment.,4,4,4,5,5,5,5,5,5,Female,15 - 30 years old,Africa
+helping-others,human influencer,2,2.50,3.33,1.75,2.67,1,2,1,3.67,1.00,1.00,4,3,3,1,2,2,2,3,2,3,1,1,1,1,Is an influencer who contributes to the enviroment.,5,3,3,1,1,1,1,1,1,Male,30 - 45 years old,Other
+helping-others,human influencer,2,3.30,3.67,2.75,3.67,2.5,4,1.5,4.00,3.67,1.00,4,4,3,3,2,3,3,4,3,4,4,3,2,1,Is an influencer who contributes to the enviroment.,4,4,4,4,3,4,3,1,1,Female,15 - 30 years old,North America/Central America
+helping-others,human influencer,2,4.30,4.67,3.5,5.00,2.75,5,1,5.00,5.00,4.50,4,5,5,3,2,4,5,5,5,5,5,4,1,1,Is an influencer who contributes to the enviroment.,5,5,5,5,5,5,4,4,5,Female,15 - 30 years old,Africa
+helping-others,human influencer,2,3.90,3.33,4,4.33,2,3,1,5.00,5.00,4.00,3,4,3,4,3,4,5,5,5,3,3,3,1,1,Is an influencer who contributes to the enviroment.,5,5,5,5,5,5,5,4,4,Female,15 - 30 years old,South America
+helping-others,human influencer,2,4.50,4.00,4.5,5.00,2.25,4,1,4.00,4.00,4.00,5,3,4,3,5,5,5,5,5,5,3,4,1,1,Is an influencer who contributes to the enviroment.,4,4,4,4,4,4,4,4,4,Female,15 - 30 years old,Europe
+helping-others,human influencer,2,3.80,4.00,3.75,3.67,3.25,3.5,3,2.00,3.00,3.00,4,4,4,4,4,4,3,3,4,4,3,4,4,2,Is an influencer who contributes to the enviroment.,2,2,2,3,3,3,3,3,3,Male,15 - 30 years old,Europe
+helping-others,human influencer,2,4.40,4.00,4.5,4.67,3.5,5,2,4.00,3.33,4.50,4,4,4,5,4,5,4,4,5,5,5,5,2,2,Is an influencer who contributes to the enviroment.,4,4,4,3,3,4,4,4,5,Female,15 - 30 years old,North America/Central America
+helping-others,human influencer,2,2.60,2.33,3.25,2.00,2.5,2.5,2.5,3.67,3.00,1.50,3,2,2,2,3,4,4,2,2,2,3,2,2,3,Is an influencer who contributes to the enviroment.,4,4,3,2,4,3,2,2,1,Male,15 - 30 years old,Europe
+helping-others,human influencer,2,3.50,3.67,3,4.00,1.75,3,1.5,4.00,2.67,2.00,4,3,4,2,2,4,4,4,4,4,2,2,2,1,Is an influencer who contributes to the enviroment.,4,4,4,2,3,3,3,2,2,Male,45+,South America
+self-serving,virtual influencer,3,3.10,3.00,3,3.33,1.25,3,1,3.00,1.00,1.00,3,3,3,3,3,3,3,3,3,4,2,1,1,1,Is a virtual influencer,3,3,3,1,1,1,1,1,1,Male,15 - 30 years old,Europe
+self-serving,virtual influencer,3,3.30,3.67,2.5,4.00,1.75,3.5,1,4.00,4.67,1.00,3,4,4,1,2,3,4,4,4,4,3,2,1,1,Is a virtual influencer,4,4,4,5,4,5,1,1,1,Female,15 - 30 years old,Africa
+self-serving,virtual influencer,3,2.90,1.00,4,3.33,1,2,1,3.67,1.00,1.50,1,1,1,3,4,4,5,3,4,3,1,1,1,1,Is a virtual influencer,4,3,4,1,1,1,1,1,2,Female,15 - 30 years old,South America
+self-serving,virtual influencer,3,2.50,3.33,1.75,2.67,1.75,1,2,3.67,1.00,1.00,3,3,4,2,1,2,2,3,4,1,1,2,3,1,Is a virtual influencer,3,4,4,1,1,1,1,1,1,Female,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.60,2.33,4.5,3.67,2.75,3.5,1.5,4.00,1.00,1.00,2,2,3,4,5,5,4,4,4,3,4,4,1,2,Is a virtual influencer,4,4,4,1,1,1,1,1,1,Female,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.60,4.00,3.5,3.33,3,4,2,4.00,4.00,4.00,4,4,4,4,2,4,4,2,4,4,4,4,2,2,Is a virtual influencer,4,4,4,4,4,4,4,4,4,Female,15 - 30 years old,Other
+self-serving,virtual influencer,3,3.90,4.00,3.75,4.00,2.25,3,2,4.00,2.33,1.00,4,4,4,3,4,4,4,4,4,4,2,3,3,1,Is a virtual influencer,4,4,4,2,3,2,1,1,1,Female,30 - 45 years old,Africa
+self-serving,virtual influencer,3,4.00,4.00,3.5,4.67,1.5,3.5,1,3.67,2.00,1.00,3,5,4,4,2,4,4,4,5,5,2,2,1,1,Is a virtual influencer,4,3,4,1,1,4,2,1,1,Male,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.10,3.00,3.25,3.00,1.75,2.5,1,3.67,1.00,1.00,3,3,3,3,3,4,3,3,3,3,2,3,1,1,Is a virtual influencer,4,3,4,1,1,1,1,1,1,Female,30 - 45 years old,North America/Central America
+self-serving,virtual influencer,3,4.50,3.67,4.75,5.00,1.75,3.5,1,4.00,3.00,1.00,5,3,3,4,5,5,5,5,5,5,2,3,1,1,Is a virtual influencer,4,4,4,2,3,4,1,1,1,Male,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.60,3.00,3.5,4.33,2,3.5,2,1.67,1.00,2.00,3,4,2,3,3,3,5,4,4,5,2,2,3,1,Is a virtual influencer,1,2,2,1,1,1,2,2,2,Male,15 - 30 years old,South America
+self-serving,virtual influencer,3,2.90,2.67,2.5,3.67,2.25,2.5,3,4.00,3.33,1.00,3,3,2,2,3,2,3,3,4,4,1,2,2,4,Is a virtual influencer,4,4,4,4,2,4,1,1,1,Female,15 - 30 years old,Other
+self-serving,virtual influencer,3,3.80,3.33,4,4.00,1.75,3,1.5,4.00,5.00,2.00,4,3,3,4,4,4,4,4,4,4,2,2,1,2,Is a virtual influencer,4,4,4,5,5,5,2,2,2,Female,15 - 30 years old,Europe
+self-serving,virtual influencer,3,2.10,2.00,2,2.33,2.25,2.5,2.5,2.33,1.33,1.00,2,2,2,2,2,2,2,2,2,3,2,2,3,2,Is a virtual influencer,3,2,2,1,1,2,1,1,1,Female,15 - 30 years old,Australia
+self-serving,virtual influencer,3,4.30,3.33,4.5,5.00,2.5,5,1,5.00,3.00,1.50,4,3,3,3,5,5,5,5,5,5,5,3,1,1,Is a virtual influencer,5,5,5,3,3,3,2,1,2,Male,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.20,2.33,3.25,4.00,1.75,3,1.5,3.67,1.00,1.00,2,3,2,2,3,4,4,4,4,4,2,2,2,1,Is a virtual influencer,4,3,4,1,1,1,1,1,1,Female,30 - 45 years old,Europe
+self-serving,virtual influencer,3,2.70,2.33,2.25,3.67,2.25,2.5,3.5,3.33,1.00,1.00,2,3,2,3,2,2,2,3,4,4,1,1,5,2,Is a virtual influencer,4,3,3,1,1,1,1,1,1,Female,15 - 30 years old,South America
+self-serving,virtual influencer,3,3.00,2.67,2.75,3.67,2,3,1.5,3.00,1.00,2.00,3,2,3,2,3,3,3,3,4,4,2,3,2,1,Is a virtual influencer,3,3,3,1,1,1,1,1,3,Female,30 - 45 years old,Europe
+self-serving,virtual influencer,3,1.00,1.00,1,1.00,1,1,1,1.00,1.00,1.00,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Is a virtual influencer,1,1,1,1,1,1,1,1,1,Male,15 - 30 years old,Europe
+self-serving,virtual influencer,3,4.60,4.00,5,4.67,2,3,1,5.00,4.00,1.00,4,4,4,5,5,5,5,5,5,4,2,4,1,1,Is a virtual influencer,5,5,5,4,4,4,2,1,1,Female,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.60,3.33,3.5,4.00,1.75,3,1,4.00,2.33,3.00,3,3,4,2,4,4,4,4,4,4,2,3,1,1,Is a virtual influencer,4,4,4,2,2,3,2,3,3,Female,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,4.00,2.33,4.5,5.00,1.75,3.5,1,4.00,2.67,1.00,1,3,3,3,5,5,5,5,5,5,2,3,1,1,Is a virtual influencer,4,4,4,2,2,4,1,1,1,Male,15 - 30 years old,Africa
+self-serving,virtual influencer,3,3.80,4.00,3.25,4.33,1,3,1,3.33,1.00,1.00,5,4,3,1,4,4,4,4,4,5,1,1,1,1,Is a virtual influencer,4,3,3,1,1,1,1,1,1,Male,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.90,3.33,4,4.33,3,4.5,1,5.00,4.00,4.00,3,3,4,2,4,5,5,4,5,4,5,5,1,1,Is a virtual influencer,5,5,5,4,4,4,5,4,4,Female,15 - 30 years old,Other
+self-serving,virtual influencer,3,2.00,2.00,2,2.00,1,1.5,1,1.00,2.00,2.00,2,2,2,2,2,2,2,2,2,2,1,1,1,1,Is a virtual influencer,1,1,1,2,2,2,1,1,3,Female,30 - 45 years old,Other
+self-serving,virtual influencer,3,3.80,3.33,3.5,4.67,3,4,2,4.00,1.33,1.00,4,3,3,3,4,2,5,5,5,4,4,4,2,2,Is a virtual influencer,4,4,4,1,1,2,1,1,1,Male,30 - 45 years old,North America/Central America
+self-serving,virtual influencer,3,3.50,3.00,3.5,4.00,3,3.5,3,1.33,4.33,3.00,4,2,3,2,4,3,5,4,3,5,2,4,3,3,Is a virtual influencer,1,2,1,5,3,5,4,3,3,Male,15 - 30 years old,Europe
+self-serving,virtual influencer,3,1.60,1.00,1.5,2.33,1.5,1,2,1.00,1.00,1.00,1,1,1,1,1,1,3,3,3,1,1,1,3,1,Is a virtual influencer,1,1,1,1,1,1,1,1,1,Male,30 - 45 years old,North America/Central America
+self-serving,virtual influencer,3,3.00,4.00,2.75,2.33,2.25,2.5,1,4.00,4.00,3.50,4,5,3,1,1,4,5,3,2,2,3,4,1,1,Is a virtual influencer,4,4,4,4,4,4,3,4,3,Female,45+,Other
+self-serving,virtual influencer,3,3.30,3.67,2.75,3.67,2.25,3.5,1,4.33,4.33,3.00,3,4,4,3,2,4,2,3,4,4,3,4,1,1,Is a virtual influencer,4,5,4,5,4,4,3,3,3,Male,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.60,3.33,3.25,4.33,2.5,3.5,1.5,3.67,3.33,4.00,3,4,3,4,1,4,4,5,4,4,3,4,1,2,Is a virtual influencer,4,4,3,3,4,3,4,4,4,Female,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,5.00,5.00,5,5.00,2.75,4.5,1,5.00,4.33,5.00,5,5,5,5,5,5,5,5,5,5,4,5,1,1,Is a virtual influencer,5,5,5,4,4,5,5,5,5,Female,30 - 45 years old,Africa
+self-serving,virtual influencer,3,2.60,2.67,2.25,3.00,2.25,3,2.5,4.33,1.33,1.50,2,3,3,3,2,2,2,2,2,5,1,3,1,4,Is a virtual influencer,5,4,4,1,1,2,1,1,2,Male,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.78,3.50,3.25,4.67,1,3,1,4.00,2.67,3.00,4,3,,4,3,3,3,4,5,5,1,1,1,1,Is a virtual influencer,4,4,4,4,3,1,5,4,2,Male,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.50,3.67,3,4.00,2,3.5,1.5,4.00,3.33,1.00,5,4,2,2,2,4,4,4,4,4,3,2,1,2,Is a virtual influencer,4,4,4,4,4,2,1,1,1,Female,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.80,3.33,4,4.00,1.25,2.5,1,4.00,3.00,1.00,3,3,4,4,4,4,4,4,4,4,1,2,1,1,Is a virtual influencer,4,4,4,3,3,3,1,1,1,Female,15 - 30 years old,South America
+self-serving,virtual influencer,3,3.90,3.67,4.25,3.67,3.25,4.5,2,4.00,3.00,4.00,4,3,4,4,5,4,4,4,3,4,5,4,2,2,Is a virtual influencer,4,4,4,4,3,2,3,4,4,Male,15 - 30 years old,Europe
+self-serving,virtual influencer,3,3.60,3.67,3.75,3.33,2,2.5,2,3.33,1.00,1.00,5,3,3,3,4,4,4,4,3,3,2,2,2,2,Is a virtual influencer,4,4,2,1,1,1,1,1,1,Male,15 - 30 years old,South America
+self-serving,virtual influencer,3,3.30,3.33,2,5.00,2,3,3,3.33,1.00,1.00,2,5,3,2,2,2,2,5,5,5,1,1,3,3,Is a virtual influencer,4,4,2,1,1,1,1,1,1,Female,15 - 30 years old,North America/Central America
+self-serving,virtual influencer,3,3.70,3.00,4,4.00,2.75,4,2,4.00,1.00,2.00,3,3,3,4,4,4,4,4,4,4,4,3,2,2,Is a virtual influencer,4,4,4,1,1,1,2,2,2,Male,15 - 30 years old,Europe
+self-serving,virtual influencer,3,3.70,3.00,3.5,4.67,2.5,3.5,2,3.67,1.67,2.00,2,3,4,4,2,4,4,5,5,4,3,3,2,2,Is a virtual influencer,3,4,4,2,2,1,2,2,2,Male,30 - 45 years old,Europe
+self-serving,virtual influencer,3,5.00,5.00,5,5.00,3,5,1,5.00,4.00,5.00,5,5,5,5,5,5,5,5,5,5,5,5,1,1,Is a virtual influencer,5,5,5,4,4,4,5,5,5,Female,30 - 45 years old,Africa
+self-serving,virtual influencer,3,4.10,4.33,4,4.00,2.5,3,2,5.00,2.67,2.00,5,5,3,4,2,5,5,5,4,3,3,3,3,1,Is a virtual influencer,5,5,5,3,3,2,3,2,2,Female,30 - 45 years old,Africa
+self-serving,virtual influencer,3,4.60,3.67,5,5.00,3,4.5,2.5,4.00,2.00,1.00,3,4,4,5,5,5,5,5,5,5,4,3,3,2,Is a virtual influencer,4,4,4,2,2,2,1,1,1,Female,15 - 30 years old,Africa
+self-serving,virtual influencer,3,3.60,3.67,3.25,4.00,1,2.5,1,3.33,1.00,1.00,4,3,4,4,1,4,4,5,3,4,1,1,1,1,Is a virtual influencer,3,3,4,1,1,1,1,1,1,Male,15 - 30 years old,Europe
+self-serving,virtual influencer,3,4.20,3.00,4.5,5.00,3,5,1,4.00,3.33,3.00,3,3,3,3,5,5,5,5,5,5,5,5,1,1,Is a virtual influencer,4,4,4,4,2,4,3,3,3,Male,15 - 30 years old,Africa
+self-serving,virtual influencer,3,2.60,2.67,2.5,2.67,3,2.5,3,2.67,3.33,4.00,3,3,2,3,2,3,2,3,3,2,3,3,2,4,Is a virtual influencer,3,2,3,3,3,4,3,4,4,Female,15 - 30 years old,Africa
+helping-others,virtual influencer,4,4.50,4.00,4.5,5.00,4.25,4.5,4,4.33,4.33,5.00,4,5,3,5,5,4,4,5,5,5,4,5,3,5,Is virtual influencer,5,4,4,5,4,4,4,5,5,Male,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,3.30,3.67,3.5,2.67,2.25,2,2,3.67,2.33,1.00,3,4,4,3,3,4,4,3,3,2,2,3,3,1,Is virtual influencer,3,4,4,2,2,3,2,1,1,Female,15 - 30 years old,Europe
+helping-others,virtual influencer,4,1.90,1.67,1,3.33,2,2.5,1.5,4.33,1.00,1.00,1,3,1,1,1,1,1,3,4,3,2,3,1,2,Is virtual influencer,4,4,5,1,1,1,1,1,1,Female,15 - 30 years old,Europe
+helping-others,virtual influencer,4,3.10,3.67,2,4.00,1,2.5,1,4.00,1.00,1.00,4,3,4,3,2,2,1,4,4,4,1,1,1,1,Is virtual influencer,4,4,4,1,1,1,1,1,1,Female,15 - 30 years old,Europe
+helping-others,virtual influencer,4,3.00,2.00,3,4.00,1.5,3,1,4.00,2.67,1.00,2,2,2,2,2,4,4,4,4,4,2,2,1,1,Is virtual influencer,4,4,4,2,2,4,4,1,1,Female,15 - 30 years old,Europe
+helping-others,virtual influencer,4,2.90,2.33,2.5,4.00,1.5,2.5,2,3.00,1.33,1.00,2,3,2,2,2,3,3,4,4,4,1,1,3,1,Is virtual influencer,3,3,3,2,1,1,1,1,1,Male,45+,Europe
+helping-others,virtual influencer,4,3.80,3.33,4.25,3.67,1.75,1.5,1,4.33,4.00,1.00,3,3,4,4,4,5,4,5,4,2,1,4,1,1,Is virtual influencer,5,4,4,4,4,4,4,1,1,Male,15 - 30 years old,Europe
+helping-others,virtual influencer,4,2.70,3.33,2,3.00,2.25,3,1,4.00,1.00,1.50,4,4,2,3,1,2,2,3,4,2,4,3,1,1,Is virtual influencer,4,4,4,1,1,1,1,1,2,Female,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,3.40,2.67,3.5,4.00,1.5,3,1,4.00,3.00,1.00,3,3,2,2,4,4,4,4,4,4,2,2,1,1,Is virtual influencer,4,4,4,2,3,4,2,1,1,Male,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,3.10,2.67,3,3.67,2,2.5,2,4.00,2.67,2.50,3,3,2,3,2,4,3,4,4,3,2,2,2,2,Is virtual influencer,4,4,4,3,2,3,4,2,3,Female,30 - 45 years old,Europe
+helping-others,virtual influencer,4,3.00,4.33,2.25,2.67,2.5,3.5,2.5,4.00,3.67,3.50,4,4,5,3,2,2,2,2,2,4,3,2,3,2,Is virtual influencer,4,4,4,3,4,4,3,4,3,Female,15 - 30 years old,Other
+helping-others,virtual influencer,4,2.30,2.33,2,2.67,2,2,2,4.00,2.00,2.00,2,3,2,2,2,2,2,3,3,2,2,2,2,2,Is virtual influencer,4,4,4,2,2,2,2,2,2,Female,30 - 45 years old,Europe
+helping-others,virtual influencer,4,3.90,4.00,3.75,4.00,2.5,4.5,1,5.00,4.00,1.00,5,3,4,4,3,4,4,5,2,5,4,4,1,1,Is virtual influencer,5,5,5,4,4,4,3,1,1,Female,30 - 45 years old,Europe
+helping-others,virtual influencer,4,3.80,4.67,2.5,4.67,2.25,4,1,3.67,4.00,1.00,4,5,5,3,1,4,2,4,5,5,3,4,1,1,Is virtual influencer,3,4,4,4,4,4,3,1,1,Male,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,1.00,1.00,1,1.00,2.5,1,4,1.00,1.00,1.00,1,1,1,1,1,1,1,1,1,1,1,1,5,3,Is virtual influencer,1,1,1,1,1,1,1,1,1,Male,30 - 45 years old,North America/Central America
+helping-others,virtual influencer,4,4.00,4.00,3.75,4.33,2.25,3,1.5,4.00,4.00,3.00,5,3,4,3,4,4,4,5,5,3,3,3,2,1,Is virtual influencer,4,4,4,4,4,4,3,3,3,Female,15 - 30 years old,Africa
+helping-others,virtual influencer,4,3.00,3.67,1.5,4.33,1,2.5,1,5.00,2.00,3.00,4,3,4,3,1,1,1,5,4,4,1,1,1,1,Is virtual influencer,5,5,5,1,4,1,1,1,5,Male,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,4.60,4.67,4.75,4.33,1.5,3,1,5.00,2.33,1.00,5,5,4,5,5,4,5,5,3,5,1,3,1,1,Is virtual influencer,5,5,5,3,2,2,1,1,1,Female,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,2.00,2.67,1.25,2.33,1.75,1.5,2.5,3.33,2.33,2.00,2,2,4,2,1,1,1,2,3,2,1,1,1,4,Is virtual influencer,4,3,3,3,2,2,4,2,2,Female,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,3.00,3.00,2.75,3.33,1,2.5,1,3.67,3.00,3.00,3,3,3,2,3,3,3,3,3,4,1,1,1,1,Is virtual influencer,4,3,4,3,3,3,3,3,3,Female,30 - 45 years old,Europe
+helping-others,virtual influencer,4,3.00,3.00,3,3.00,2.5,3,2,2.33,1.00,1.00,3,3,3,3,3,3,3,3,3,3,3,3,3,1,Is virtual influencer,2,2,3,1,1,1,1,1,1,Male,30 - 45 years old,Europe
+helping-others,virtual influencer,4,2.30,2.33,1.75,3.00,2.75,2.5,3.5,4.00,2.00,1.50,2,3,2,2,1,2,2,3,3,3,2,2,3,4,Is virtual influencer,4,4,4,2,2,2,2,1,2,Female,15 - 30 years old,Europe
+helping-others,virtual influencer,4,2.00,1.33,2.75,1.67,1.75,1.5,2.5,1.67,1.00,1.00,1,2,1,1,3,4,3,1,2,2,1,1,4,1,Is virtual influencer,2,1,2,1,1,1,1,1,1,Male,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,4.00,4.00,3.75,4.33,1.75,3.5,1,4.67,2.33,1.00,3,4,5,2,4,5,4,4,4,5,2,3,1,1,Is virtual influencer,5,5,4,3,2,2,3,1,1,Male,15 - 30 years old,Europe
+helping-others,virtual influencer,4,4.50,3.67,4.75,5.00,3,4.5,2.5,4.00,2.00,1.00,4,3,4,4,5,5,5,5,5,5,4,3,3,2,Is virtual influencer,4,4,4,2,2,2,2,1,1,Male,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,3.70,4.00,3.5,3.67,2.75,3,2.5,4.00,3.33,3.00,4,4,4,4,3,4,3,3,4,4,2,4,2,3,Is virtual influencer,4,4,4,3,4,3,3,3,3,Female,15 - 30 years old,Europe
+helping-others,virtual influencer,4,3.40,2.33,4,3.67,2.25,2.5,2.5,3.33,2.33,2.00,2,3,2,4,4,4,4,4,4,3,2,2,2,3,Is virtual influencer,4,3,3,2,2,3,2,2,2,Female,15 - 30 years old,Europe
+helping-others,virtual influencer,4,3.60,3.33,3.5,4.00,3.25,4,2.5,4.00,2.00,2.00,3,3,4,3,4,3,4,4,4,4,4,4,4,1,Is virtual influencer,4,4,4,2,2,2,2,2,2,Female,15 - 30 years old,Other
+helping-others,virtual influencer,4,5.00,5.00,5,5.00,1.25,3,1,5.00,3.67,1.00,5,5,5,5,5,5,5,5,5,5,1,2,1,1,Is virtual influencer,5,5,5,3,4,4,3,1,1,Male,15 - 30 years old,Europe
+helping-others,virtual influencer,4,3.70,3.67,3.5,4.00,3.25,3.5,3.5,2.00,2.33,1.00,4,3,4,4,2,4,4,4,4,4,3,3,3,4,Is virtual influencer,2,2,2,1,1,5,1,1,1,Female,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,4.00,3.33,4,4.67,2,4,1,4.33,3.33,2.00,4,3,3,4,4,4,4,4,5,5,3,3,1,1,Is virtual influencer,4,5,4,2,4,4,2,2,2,Male,30 - 45 years old,Europe
+helping-others,virtual influencer,4,3.00,3.00,2.5,3.67,2.75,3,3,3.00,3.33,1.00,3,3,3,3,3,2,2,3,4,4,2,3,3,3,Is virtual influencer,3,3,3,3,4,3,3,1,1,Male,30 - 45 years old,Europe
+helping-others,virtual influencer,4,3.80,4.67,3.5,3.33,3,5,1,3.00,4.33,4.00,4,5,5,5,3,1,5,3,2,5,5,5,1,1,Is virtual influencer,3,3,3,3,5,5,4,5,3,Female,15 - 30 years old,Africa
+helping-others,virtual influencer,4,3.30,3.67,3,3.33,2.75,2.5,2.5,4.00,4.00,4.00,4,4,3,3,1,4,4,4,3,3,2,4,3,2,Is virtual influencer,4,4,4,4,4,4,4,4,4,Male,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,5.00,5.00,5,5.00,3.25,4,2.5,5.00,5.00,5.00,5,5,5,5,5,5,5,5,5,5,3,5,1,4,Is virtual influencer,5,5,5,5,5,5,5,5,5,Female,15 - 30 years old,South America
+helping-others,virtual influencer,4,3.00,3.00,3,3.00,1.75,2,1.5,3.33,3.00,1.00,3,3,3,3,3,3,3,3,3,3,1,3,1,2,Is virtual influencer,4,3,3,1,4,4,3,1,1,Female,30 - 45 years old,Africa
+helping-others,virtual influencer,4,3.00,2.67,2.75,3.67,2.5,2,3,4.67,2.33,1.00,3,4,1,3,1,4,3,4,4,3,1,3,2,4,Is virtual influencer,5,5,4,2,2,3,2,1,1,Female,15 - 30 years old,North America/Central America
+helping-others,virtual influencer,4,3.60,3.33,3.75,3.67,2.25,3.5,1,4.00,4.00,3.50,3,3,4,4,3,4,4,4,3,4,3,4,1,1,Is virtual influencer,4,4,4,3,4,5,3,4,3,Male,30 - 45 years old,Europe
+helping-others,virtual influencer,4,5.00,5.00,5,5.00,3,5,1,5.00,5.00,5.00,5,5,5,5,5,5,5,5,5,5,5,5,1,1,Is virtual influencer,5,5,5,5,5,5,5,5,5,Male,15 - 30 years old,Africa
+helping-others,virtual influencer,4,3.90,3.67,4,4.00,1.5,3.5,1,4.00,3.00,1.00,4,3,4,4,4,4,4,4,4,4,3,1,1,1,Is virtual influencer,4,4,4,3,3,3,4,1,1,Female,15 - 30 years old,Europe
+helping-others,virtual influencer,4,4.10,3.33,4.5,4.33,1.75,2.5,1.5,4.00,3.00,1.00,3,3,4,3,5,5,5,5,5,3,2,2,2,1,Is virtual influencer,4,4,4,3,3,3,4,1,1,Female,15 - 30 years old,Europe
+helping-others,virtual influencer,4,3.00,3.00,3,3.00,2.5,3,2,3.67,1.00,1.00,3,3,3,3,3,3,3,3,3,3,3,3,3,1,Is virtual influencer,4,4,3,1,1,1,1,1,1,Male,15 - 30 years old,Europe
+helping-others,virtual influencer,4,3.80,4.33,2.5,5.00,1,3,1,4.00,1.00,1.00,4,4,5,3,1,2,4,5,5,5,1,1,1,1,Is virtual influencer,4,4,4,1,1,1,1,1,1,Male,15 - 30 years old,Europe
+helping-others,virtual influencer,4,2.90,3.33,3,2.33,3.25,4,1.5,3.33,3.33,2.50,4,3,3,4,3,2,3,2,2,3,5,5,2,1,Is virtual influencer,3,3,4,2,4,4,3,2,3,Female,30 - 45 years old,Africa
+helping-others,virtual influencer,4,3.60,3.67,3.25,4.00,2.5,4,1,4.33,3.00,2.50,4,4,3,2,3,4,4,4,4,4,4,4,1,1,Is virtual influencer,4,4,5,3,3,3,4,3,2,Female,15 - 30 years old,Europe
+helping-others,virtual influencer,4,4.00,4.00,4,4.00,2.75,4,1.5,4.00,4.00,4.00,4,4,4,4,4,4,4,4,4,4,4,4,1,2,Is virtual influencer,4,4,4,4,4,4,4,4,4,Male,15 - 30 years old,Africa
+helping-others,virtual influencer,4,2.90,2.67,3,3.00,2.25,2,3,3.00,2.00,1.50,3,3,2,2,3,4,3,3,3,3,1,2,4,2,Is virtual influencer,3,3,3,2,2,2,5,1,2,Male,30 - 45 years old,Europe
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
